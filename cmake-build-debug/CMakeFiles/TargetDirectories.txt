@@ -1,0 +1,3 @@
+D:/C/C++ algoritmos/Quick_sort/cmake-build-debug/CMakeFiles/Quick_sort.dir
+D:/C/C++ algoritmos/Quick_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C/C++ algoritmos/Quick_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
